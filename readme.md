@@ -19,9 +19,9 @@
 
 - [Javascript.info](http://javascript.info/) - How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
-- [Grid cheat sheat](https://gridbyexample.com/) - A visual cheatsheet for CSS Grid
+- [Grid cheat sheat](http://grid.malven.co/) - A visual cheatsheet for CSS Grid
 
-- [FLex cheat sheat](https://gridbyexample.com/) - A visual cheatsheet for flex box
+- [FLex cheat sheat](http://flexbox.malven.co/) - A visual cheatsheet for flex box
 
 
 
