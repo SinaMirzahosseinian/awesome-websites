@@ -6,15 +6,7 @@
 		Awesome websites that every web developer needs to checkout
 	</p>
 	<p>
-		<br>
-		<br>
-			
-		<br>
-		<br>
 		
-	</p>
-	<br>
-	<br>
 </div>
 
 
