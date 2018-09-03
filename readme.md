@@ -17,7 +17,12 @@
 
 - [Grid by Example](https://gridbyexample.com/) - Everything you need to learn CSS Grid Layout
 
-.
+- [Javascript.info](http://javascript.info/) - How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+
+
+
+
 
 
 
