@@ -27,6 +27,11 @@
 
 - [CSS tricks flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 
+- [Coolors.co](https://coolors.co/) - The super fast color schemes generator!
+
+
+
+
 
 
 
