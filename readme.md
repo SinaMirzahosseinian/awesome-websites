@@ -31,13 +31,13 @@
 
 - [CodePen](https://codepen.io/) - social development environment for front-end designers and developers
 
-- [FLEXBOX FROGGY](flexboxfroggy) - 
+- [FLEXBOX FROGGY](flexboxfroggy) 
 
-- [Flexbox Defense](http://www.flexboxdefense.com/) - 
+- [Flexbox Defense](http://www.flexboxdefense.com/) 
 
-- [GRID GARDEN](https://cssgridgarden.com/) -
+- [GRID GARDEN](https://cssgridgarden.com/) 
 
-
+- [Awesome talks](https://awesometalks.party/) 
 
 
 
