@@ -39,7 +39,12 @@
 
 - [Awesome talks](https://awesometalks.party/) 
 
+- [JavaScript Coercions Grid](http://getify.github.io/coercions-grid/) - By getify
 
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 
 
