@@ -41,12 +41,19 @@
 
 - [JavaScript Coercions Grid](http://getify.github.io/coercions-grid/) - By getify
 
+- [Public APIS](https://github.com/toddmotto/public-apis) - A collections of public, free APIs 
+
+
 
 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 
+
+
+
+https://specifishity.com/
 
 
 
