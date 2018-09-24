@@ -9,11 +9,7 @@
 		
 </div>
 
-
-
-
 ## Contents
-
 
 - [Grid by Example](https://gridbyexample.com/) - Everything you need to learn CSS Grid Layout
 
@@ -31,42 +27,32 @@
 
 - [CodePen](https://codepen.io/) - social development environment for front-end designers and developers
 
-- [FLEXBOX FROGGY](flexboxfroggy) 
+- [FLEXBOX FROGGY](flexboxfroggy)
 
-- [Flexbox Defense](http://www.flexboxdefense.com/) 
+- [Flexbox Defense](http://www.flexboxdefense.com/)
 
-- [GRID GARDEN](https://cssgridgarden.com/) 
+- [GRID GARDEN](https://cssgridgarden.com/)
 
-- [Awesome talks](https://awesometalks.party/) 
+- [Awesome talks](https://awesometalks.party/)
 
 - [JavaScript Coercions Grid](http://getify.github.io/coercions-grid/) - By getify
 
-- [Public APIS](https://github.com/toddmotto/public-apis) - A collections of public, free APIs 
+- [Public APIS](https://github.com/toddmotto/public-apis) - A collections of public, free APIs
 
-
-
-
+- [Picsum photos](https://picsum.photos/) - Lorem Ipsum... but for photos
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
-
-
-
+https://goalkicker.com/
 
 https://specifishity.com/
 
+https://www.usercrowd.com/
 
+http://flukeout.github.io/
 
+http://learnlayout.com/box-model.html
 
+http://enjoycss.com/5qR#transform
 
-
-
-
-
-
-
-
-
-
-
-
+https://jsonplaceholder.typicode.com/ Fake Online REST API for Testing and Prototyping
