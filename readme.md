@@ -41,6 +41,8 @@
 
 - [Picsum photos](https://picsum.photos/) - Lorem Ipsum... but for photos
 
+- [Picsum photos](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 https://goalkicker.com/
@@ -56,3 +58,11 @@ http://learnlayout.com/box-model.html
 http://enjoycss.com/5qR#transform
 
 https://jsonplaceholder.typicode.com/ Fake Online REST API for Testing and Prototyping
+
+https://navnav.co/
+
+https://react.rocks/
+
+https://explainshell.com/
+
+https://reactjsexample.com/
