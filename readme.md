@@ -43,6 +43,8 @@
 
 - [Picsum photos](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
 
+- [Picsum photos](https://reactjs.org/community/ui-components.html) - React UI Components libraries
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 https://goalkicker.com/
