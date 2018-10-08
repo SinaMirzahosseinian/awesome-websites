@@ -41,9 +41,13 @@
 
 - [Picsum photos](https://picsum.photos/) - Lorem Ipsum... but for photos
 
-- [Picsum photos](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
+- [observables marbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
 
-- [Picsum photos](https://reactjs.org/community/ui-components.html) - React UI Components libraries
+- [React componens](https://reactjs.org/community/ui-components.html) - React UI Components
+
+- [React rocks](https://react.rocks/) - React app examples
+
+- [React exmaple](https://reactjsexample.com/) - React app examples
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
@@ -63,8 +67,10 @@ https://jsonplaceholder.typicode.com/ Fake Online REST API for Testing and Proto
 
 https://navnav.co/
 
-https://react.rocks/
-
 https://explainshell.com/
 
-https://reactjsexample.com/
+https://www.fontsquirrel.com/
+
+https://estelle.github.io/selectors/selectors.html
+
+https://labs.jensimmons.com/
