@@ -49,6 +49,8 @@
 
 - [React exmaple](https://reactjsexample.com/) - React app examples
 
+- [Regular Expression](https://regexr.com/) - regex maker
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 https://goalkicker.com/
