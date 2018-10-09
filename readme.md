@@ -51,6 +51,8 @@
 
 - [Regular Expression](https://regexr.com/) - regex maker
 
+- [CSS Spinner](http://tobiasahlin.com/spinkit/) - some loading spinner with pure css
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 https://goalkicker.com/
