@@ -53,7 +53,8 @@
 
 - [CSS Spinner](http://tobiasahlin.com/spinkit/) - some loading spinner with pure css
 
-- [CSS Spinner](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+- [JavaScript Visualizer
+  ](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
