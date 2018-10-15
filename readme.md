@@ -53,8 +53,9 @@
 
 - [CSS Spinner](http://tobiasahlin.com/spinkit/) - some loading spinner with pure css
 
-- [JavaScript Visualizer
-  ](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+
+- [Sql to Mongo](http://tobiasahlin.com/spinkit/) - SQL to MongoDB Mapping Chart¶
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
