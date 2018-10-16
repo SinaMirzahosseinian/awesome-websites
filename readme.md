@@ -55,7 +55,11 @@
 
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
-- [Sql to Mongo](http://tobiasahlin.com/spinkit/) - SQL to MongoDB Mapping Chart¶
+- [Sql to Mongo](http://tobiasahlin.com/spinkit/) - SQL to MongoDB Mapping Chart
+
+- [Jens Simmons](https://labs.jensimmons.com/)
+
+* [Selector list](https://estelle.github.io/selectors/selectors.html)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
@@ -78,7 +82,3 @@ https://navnav.co/
 https://explainshell.com/
 
 https://www.fontsquirrel.com/
-
-https://estelle.github.io/selectors/selectors.html
-
-https://labs.jensimmons.com/
