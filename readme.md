@@ -82,3 +82,7 @@ https://navnav.co/
 https://explainshell.com/
 
 https://www.fontsquirrel.com/
+
+https://devdocs.io/
+
+https://designpatternsphp.readthedocs.io/en/latest/
