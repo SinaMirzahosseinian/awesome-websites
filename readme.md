@@ -90,3 +90,11 @@ https://designpatternsphp.readthedocs.io/en/latest/
 https://www.free-css.com/
 
 https://css-houdini.rocks/
+
+https://codex.wordpress.org/Plugin_API/Filter_Reference
+
+https://codex.wordpress.org/Plugin_API/Action_Reference
+
+https://infinityfree.net/
+
+https://my.freenom.com
