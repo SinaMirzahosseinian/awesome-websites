@@ -98,3 +98,5 @@ https://codex.wordpress.org/Plugin_API/Action_Reference
 https://infinityfree.net/
 
 https://my.freenom.com
+
+https://codex.wordpress.org/Plugin_API/Action_Reference
