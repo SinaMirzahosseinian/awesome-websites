@@ -102,3 +102,32 @@ https://my.freenom.com
 https://codex.wordpress.org/Plugin_API/Action_Reference
 
 http://openmoji.org/
+
+https://codeforces.com/
+
+https://www.hackerrank.com/
+
+stock images
+https://www.pexels.com/
+
+https://unsplash.com/
+
+https://pixabay.com/en/
+
+https://html5up.net/
+
+https://startbootstrap.com/
+
+https://templated.co/
+
+https://freehtml5.co/
+
+https://colorlib.com/
+
+https://www.zerotheme.com/
+
+https://www.styleshout.com/
+
+https://www.html5xcss3.com/
+
+https://athemes.com/
