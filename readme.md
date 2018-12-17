@@ -135,3 +135,7 @@ https://athemes.com/
 https://www.upwork.com/
 
 https://www.crossover.com/
+
+https://beta.observablehq.com
+
+https://bl.ocks.org/
