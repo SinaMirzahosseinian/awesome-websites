@@ -145,3 +145,5 @@ https://blockbuilder.org/search
 https://jsfiddle.net/
 
 https://codepen.io/scottyzen/full/KbNRJq box shadow maker
+
+https://thedevs.network/ telegram community
