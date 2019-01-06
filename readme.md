@@ -147,3 +147,9 @@ https://jsfiddle.net/
 https://codepen.io/scottyzen/full/KbNRJq box shadow maker
 
 https://thedevs.network/ telegram community
+
+https://cssguidelin.es/ css guidline
+
+https://color.adobe.com/create/color-wheel/
+
+https://colorhunt.co/
