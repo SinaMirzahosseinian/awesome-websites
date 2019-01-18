@@ -153,3 +153,5 @@ https://cssguidelin.es/ css guidline
 https://color.adobe.com/create/color-wheel/
 
 https://colorhunt.co/
+
+https://bennettfeely.com/clippy/
