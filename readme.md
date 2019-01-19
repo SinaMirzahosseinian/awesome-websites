@@ -155,3 +155,5 @@ https://color.adobe.com/create/color-wheel/
 https://colorhunt.co/
 
 https://bennettfeely.com/clippy/
+
+http://jxnblk.com/colorable/demos/text/
