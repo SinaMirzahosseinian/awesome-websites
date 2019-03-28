@@ -107,12 +107,18 @@ https://codeforces.com/
 
 https://www.hackerrank.com/
 
+---
+
 stock images
 https://www.pexels.com/
 
 https://unsplash.com/
 
 https://pixabay.com/en/
+
+https://picjumbo.com/
+
+---
 
 https://html5up.net/
 
@@ -163,3 +169,5 @@ https://uigradients.com
 http://www.colorzilla.com/gradient-editor/
 
 http://goodui.org/
+
+https://www.iconfinder.com/
