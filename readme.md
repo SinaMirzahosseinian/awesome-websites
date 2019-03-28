@@ -157,3 +157,9 @@ https://colorhunt.co/
 https://bennettfeely.com/clippy/
 
 http://jxnblk.com/colorable/demos/text/
+
+https://uigradients.com
+
+http://www.colorzilla.com/gradient-editor/
+
+http://goodui.org/
