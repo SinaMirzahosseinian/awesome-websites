@@ -109,7 +109,7 @@ https://www.hackerrank.com/
 
 ---
 
-stock images
+stock images and designs tools
 https://www.pexels.com/
 
 https://unsplash.com/
@@ -117,6 +117,8 @@ https://unsplash.com/
 https://pixabay.com/en/
 
 https://picjumbo.com/
+
+https://www.remove.bg/
 
 ---
 
