@@ -191,3 +191,5 @@ https://keywordtool.io/
 https://cssgrid-generator.netlify.com/
 
 https://brumm.af/shadows
+
+https://explainshell.com/
